@@ -1,0 +1,11 @@
+pickup_location,dropoff_location,traffic,time_of_day,demand
+A,B,Medium,Morning,120
+A,C,High,Evening,95
+B,C,Low,Afternoon,150
+C,D,Medium,Night,80
+D,A,High,Morning,110
+A,B,Low,Evening,130
+B,D,High,Afternoon,90
+C,A,Low,Night,140
+D,B,Medium,Morning,125
+B,C,High,Night,105
